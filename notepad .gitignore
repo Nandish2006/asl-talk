@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Models (VERY IMPORTANT)
+models/*.h5
+models/*.pkl
+models/*.npy
+
+# Data
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
